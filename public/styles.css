@@ -1,5 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
@@ -9,6 +11,10 @@
     text-align: center;
     flex-direction: column;
     background-color: #ff9999;
+}
+
+.column {
+    background-color: #bb7070;
 }
 
 p, img {
