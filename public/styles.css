@@ -6,6 +6,7 @@
     background-color: #ff9999;
 }
 
-p {
+p, img {
     max-width: 500px;
 }
+
